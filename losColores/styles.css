@@ -49,7 +49,7 @@ h1 {
     box-shadow: 0 0 20px 0 hsl(233, 59% 31% 0.8);
   }
 
-  p{
+  footer>p{
     bottom: 50px;
     position: absolute;
     margin: 0 50%;
